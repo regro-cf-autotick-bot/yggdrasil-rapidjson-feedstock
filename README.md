@@ -1,7 +1,7 @@
 About yggdrasil-rapidjson-feedstock
 ===================================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/yggdrasil-rapidjson-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/yggdrasil-python-rapidjson-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cropsinsilico/yggdrasil-rapidjson
 
@@ -19,8 +19,8 @@ Current build status
 <table><tr>
     <td>GitHub Actions</td>
     <td>
-      <a href="https://github.com/conda-forge/yggdrasil-rapidjson-feedstock/actions/workflows/conda-build.yml">
-        <img src="https://github.com/conda-forge/yggdrasil-rapidjson-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      <a href="https://github.com/conda-forge/yggdrasil-python-rapidjson-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/yggdrasil-python-rapidjson-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>
@@ -30,94 +30,94 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main">
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main">
           </a>
         </summary>
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>osx_64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315</td>
+              <td>osx_64_python3.11.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_channel_sourcesconda-forgepython3.11.____cpython</td>
+              <td>osx_64_python3.12.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.11.____cpython" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_channel_sourcesconda-forgepython3.12.____cpython</td>
+              <td>osx_64_python3.13.____cp313</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.12.____cpython" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_channel_sourcesconda-forgepython3.13.____cp313</td>
+              <td>osx_64_python3.14.____cp314</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.13.____cp313" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_channel_sourcesconda-forgepython3.14.____cp314</td>
+              <td>osx_64_python3.14.____cp314t</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.14.____cp314" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.14.____cp314t" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_channel_sourcesconda-forgepython3.14.____cp314t</td>
+              <td>osx_64_python3.15.____cp315</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_channel_sourcesconda-forgepython3.14.____cp314t" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.15.____cp315" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315</td>
+              <td>osx_arm64_python3.11.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgeconda-forgelabelpython_rcpython3.15.____cp315" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_channel_sourcesconda-forgepython3.11.____cpython</td>
+              <td>osx_arm64_python3.12.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.11.____cpython" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_channel_sourcesconda-forgepython3.12.____cpython</td>
+              <td>osx_arm64_python3.13.____cp313</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.12.____cpython" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_channel_sourcesconda-forgepython3.13.____cp313</td>
+              <td>osx_arm64_python3.14.____cp314</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.13.____cp313" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_channel_sourcesconda-forgepython3.14.____cp314</td>
+              <td>osx_arm64_python3.14.____cp314t</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.14.____cp314" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.14.____cp314t" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_channel_sourcesconda-forgepython3.14.____cp314t</td>
+              <td>osx_arm64_python3.15.____cp315</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27046&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_channel_sourcesconda-forgepython3.14.____cp314t" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28861&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yggdrasil-python-rapidjson-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.15.____cp315" alt="variant">
                 </a>
               </td>
             </tr>
@@ -227,6 +227,7 @@ mamba repoquery depends yggdrasil-rapidjson --channel conda-forge
 </details>
 
 
+
 About conda-forge
 =================
 
@@ -241,9 +242,7 @@ for each of the installable packages. Such a repository is known as a *feedstock
 A feedstock is made up of a conda recipe (the instructions on what and how to build
 the package) and the necessary configurations for automatic building using freely
 available continuous integration services. Thanks to the awesome service provided by
-[Azure](https://azure.microsoft.com/en-us/services/devops/), [GitHub](https://github.com/),
-[CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
-[Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
+[Azure](https://azure.microsoft.com/en-us/services/devops/) and [GitHub](https://github.com/)
 it is possible to build and upload installable packages to the
 [conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
